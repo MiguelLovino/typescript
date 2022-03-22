@@ -16,6 +16,11 @@ let mensaje: string = `Mi nombre es ${nombre}.
 let pruebatraspilado: string = "esto se pasa a app.js";
 console.log(pruebatraspilado);
 
-let pruba2 : string = "mensaje cambiado para probar github"
-console.log(pruba2);
+let prueba2 : string = "mensaje cambiado para probar github"
+console.log(prueba2);
+
+let prueba3:string = "prueba, notew to desktopp"
+console.log(prueba3);
+let pruebaw3:string = "prueba, notew to desktopp"
+console.log(pruebaw3);
 
