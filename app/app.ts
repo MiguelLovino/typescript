@@ -25,7 +25,7 @@ let pruebaw3:string = "prueba, notew to desktopp"
 console.log(pruebaw3);
 //  pasos para subir a repositorio en github
 // 1. git add "file"
-// 2. git commit
+// 2. git commit -m "initial commit"
 // 3. git push
 // 1
 // 1
