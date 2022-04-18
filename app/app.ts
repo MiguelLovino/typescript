@@ -23,6 +23,10 @@ let prueba3:string = "prueba, notew to desktopp"
 console.log(prueba3);
 let pruebaw3:string = "prueba, notew to desktopp"
 console.log(pruebaw3);
+
+let prueba4: string = "prueba, notew to desktoppdsdsdd"
+console.log(prueba4);
+
 //  pasos para subir a repositorio en github
 // 1. git add "file"
 // 2. git commit -m "initial commit"
